@@ -1,2 +1,2 @@
-# Media-App-with-face-recognition
-Advanced media app using C#
+# Hospital Management System
+Hospital Management System using C#
